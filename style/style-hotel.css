@@ -17,6 +17,7 @@ h5 {
 h6, a, p, a:link,
 a:visited, li {
   font-family: "Droid Sans Bold", arial;
+  text-decoration: none;
   font-size: 15px;
   color: black;
 }
